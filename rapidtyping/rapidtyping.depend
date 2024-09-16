@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1726207489 source:c:\users\jimle\desktop\打字练习\rapidtyping\main.c
+	<stdio.h>
+	"stdprint.h"
+
+1726207530 c:\users\jimle\desktop\打字练习\rapidtyping\stdprint.h
+
+1726207506 source:c:\users\jimle\desktop\打字练习\rapidtyping\stdprint.c
+	<windows.h>
+	"stdprint.h"
+
+1726476384 source:c:\users\jimle\desktop\我的c和c++\我的作品\rapidtyping\stdprint.c
+	<windows.h>
+	<stdio.h>
+	"stdprint.h"
+
+1726475789 c:\users\jimle\desktop\我的c和c++\我的作品\rapidtyping\stdprint.h
+	<windows.h>
+
+1726476012 source:c:\users\jimle\desktop\我的c和c++\我的作品\rapidtyping\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"stdprint.h"
+	"welcome.h"
+	"typing_modes.h"
+
+1726475800 source:c:\users\jimle\desktop\我的c和c++\我的作品\rapidtyping\welcome.c
+	<stdio.h>
+	<conio.h>
+	"welcome.h"
+	"stdprint.h"
+
+1726455323 c:\users\jimle\desktop\我的c和c++\我的作品\rapidtyping\welcome.h
+
+1726472813 c:\users\jimle\desktop\我的c和c++\我的作品\rapidtyping\typing_modes.h
+
+1726475635 source:c:\users\jimle\desktop\我的c和c++\我的作品\rapidtyping\typing_modes.c
+	<stdio.h>
+	<time.h>
+	"stdprint.h"
+	"typing_modes.h"
+
